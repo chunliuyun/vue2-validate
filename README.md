@@ -1,4 +1,4 @@
-# verify
+# vue2-validate
 主要是应用到vue2及以上版本
 
 ### install 

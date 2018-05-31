@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "ddd"
+    "url": "https://github.com/chunliuyun/vue2-validate"
   },
   "author": "chenshaoshan",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/chenshaoshan/verify/issues"
+    "url": "https://github.com/chunliuyun/vue2-validate/issues"
   },
-  "homepage": "https://github.com/chenshaoshan/verify#readme",
+  "homepage": "https://github.com/chunliuyun/vue2-validate/blob/master/README.md",
   "devDependencies": {
     "cross-env": "^4.0.0",
     "lodash": "^4.17.4"
